@@ -188,7 +188,7 @@ html {
 }
 
 .square {list-style-type:square;}
-
+.none {list-style-type:none;}
 @media (max-width: 1265px) {
     
     
